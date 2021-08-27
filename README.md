@@ -3,7 +3,7 @@
   <h3 align="center">Python Learning</h3>
 
   <p align="center">
-    A repository for me to keep my files while I learn Python.
+    A repository for me to keep my files while I learn Python. Hello!
     <br />
     
 </p>
